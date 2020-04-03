@@ -1,0 +1,12 @@
+.fit{
+	width: 100%;
+}
+
+#dropdownMenu1{
+	border: 1px solid red;
+}
+
+#dropdownMenu1:hover{
+	color: black;
+	background-color: white;
+}
